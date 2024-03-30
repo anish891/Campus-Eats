@@ -1,6 +1,6 @@
-# Campus Eats Central
+# Campus Eats
 
-Campus Eats Central is a web application aimed at simplifying the dining experience for college students by providing a centralized platform to access and manage menus of various food establishments within the campus.
+Campus Eats is a web application aimed at simplifying the dining experience for college students by providing a centralized platform to access and manage menus of various food establishments within the campus.
 
 ## Problem
 
@@ -8,7 +8,7 @@ College students often face challenges in deciding where to eat on campus due to
 
 ## Solution
 
-Campus Eats Central addresses this problem by offering a centralized hub where students can easily access and browse daily menus from different food outlets on campus. With features such as user authentication, menu display, search functionality, user profiles, and password reset, the platform enhances convenience and streamlines the dining experience for students.
+Campus Eats addresses this problem by offering a centralized hub where students can easily access and browse daily menus from different food outlets on campus. With features such as user authentication, menu display, search functionality, user profiles, and password reset, the platform enhances convenience and streamlines the dining experience for students.
 
 ## Key Features
 
